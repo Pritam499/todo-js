@@ -8,7 +8,7 @@
 }
 
 .container{
-    width: 100%;
+    width: 100vw;
     min-height: 100vh;
     background: linear-gradient(125deg, #3c60a9, #1ca9aa);
     padding: 10px;
@@ -21,6 +21,15 @@
     margin: 100px auto 20px;
     padding: 40px 30px 50px;
     border-radius: 15px;
+}
+
+/* Media query for mobile devices (less than 600px) */
+@media (max-width: 600px) {
+    .todo-app {
+        margin: 30px auto 10px;  
+        padding: 20px 15px 30px;  
+        border-radius: 10px;     
+    }
 }
 
 .todo-app h2{
