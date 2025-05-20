@@ -38,12 +38,6 @@ pritam499-todo-js/
 
 ---
 
-## 🖼️ Screenshots
-
-![Screenshot](./Images/screenshot.png) <!-- Add a real screenshot to Images/ and rename it accordingly -->
-
----
-
 ## 📦 How to Run Locally
 
 1. **Clone the repository**
