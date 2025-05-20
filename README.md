@@ -52,5 +52,3 @@ CSS3 (Flexbox + Media Queries)
 Vanilla JavaScript
 
 LocalStorage
-
-Firebase
